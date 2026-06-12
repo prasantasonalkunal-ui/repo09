@@ -1,1 +1,1 @@
-This is my first file created inside branch1, updated by branch1 2nd time.
+This is my first file created inside branch1.
